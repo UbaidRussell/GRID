@@ -9,11 +9,6 @@ body{
     margin-bottom: 100px;
     background-color: rgb(223, 117, 133);
 }
-.ranking{
-    margin-right: 400px;
-    display: inline-block;
-    float: right;
-}
 img{
     width: 200px;
     height: 200px;
@@ -35,7 +30,7 @@ p{
     border-radius:20px;
 }
 .container-one > div{
-    background-color: #565656;
+    background-color: #9e6009;
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
