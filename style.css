@@ -1,12 +1,13 @@
 body{
     font-family: 'Mukta', sans-serif;
+    background: linear-gradient(hsl(213, 19%, 18%),hsl(216, 12%, 8%));
 }
 .header{
-    padding-left:100px;
+    margin-left:100px;
     display: inline-block;
     padding:50px;
-    padding-bottom: 100px;
-    background-color: pink;
+    margin-bottom: 100px;
+    background-color: rgb(223, 117, 133);
 }
 .ranking{
     margin-right: 400px;
