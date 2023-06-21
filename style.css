@@ -13,6 +13,14 @@ body{
     display: inline-block;
     float: right;
 }
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+p{
+    display: block;
+}
 
 
 .main-container{
@@ -20,13 +28,13 @@ body{
     margin: 0 auto;
 }
 .container-one{
-    display: grid;
     grid-template-columns: auto auto auto;
     gap: 10px;
     margin-bottom:50px;
+    border-radius:20px;
 }
 .container-one > div{
-    background-color: #eee;
+    background-color: #565656;
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
